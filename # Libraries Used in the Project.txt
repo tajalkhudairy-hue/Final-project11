@@ -1,0 +1,12 @@
+ # Libraries Used in the Project
+# pandas
+# Used for loading, cleaning, and manipulating the dataset.
+# numpy
+ # Used for mathematical operations such as mean, standard deviation, and array calculations.
+# matplotlib.pyplot
+# Used for basic visualizations like histograms and plots.
+# seaborn
+# Used for advanced visualizations such as heatmaps and boxplots.
+# sklearn.preprocessing (StandardScaler)
+# Used for scaling and normalizing numerical features.
+     
