@@ -3,7 +3,7 @@
 ## Live Demo
 
 Web Application:
-https://https://huggingface.co/spaces/Taj2010/taj11
+https://huggingface.co/spaces/Taj2010/taj11
 
 ## Files
 - notebook.ipynb
